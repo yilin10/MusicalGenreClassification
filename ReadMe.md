@@ -1,5 +1,4 @@
-# ReadMe.mc
-
+# ReadMe.md
 ## Project Description:
 Implement a classifier able to predict the musical genre of a music piece.
 
