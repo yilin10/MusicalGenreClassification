@@ -31,5 +31,3 @@ classification system and in which the results are shown and commented (max 8th 
 * You can also choose a name of your preference for the group, which is for now only a number (1...20).
 
 ## Others
-
-## ...
