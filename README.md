@@ -1,6 +1,8 @@
 # README.md
-## Report Link(view only)
-1. Overleaf link: https://www.overleaf.com/read/ggcrddfbgkrh
+## Final Links
+1. [Google Colab IPython Notebook](https://github.com/yilin10/MusicalGenreClassification/blob/master/Assignment1.ipynb)
+2. [Final Detailed Report](https://yilin10.github.io/MusicalGenreClassification/final.pdf)
+3. [Representation Slides](https://yilin10.github.io/MusicalGenreClassification/)
 
 ## Description
 Implement a classifier able to predict the musical genre of a music piece.
@@ -21,6 +23,8 @@ The results of the classification must be reported as a confusion matrix and, op
 - a more detailed report in which you illustrate and explain every step of your
 classification system and in which the results are shown and commented (max 8th pages) to be delivered by May 14 .
 - a link to a repository containing the code (e.g. on GitHub) with minimal comments.
+
+---
 
 ## Grading
 * during the usual class time, using a PPT presentation. 
