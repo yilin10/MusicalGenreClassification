@@ -2,7 +2,7 @@
 ## Final Links
 1. [Google Colab IPython Notebook](https://github.com/yilin10/MusicalGenreClassification/blob/master/Assignment1.ipynb)
 2. [Final Detailed Report](https://yilin10.github.io/MusicalGenreClassification/final.pdf)
-3. [Representation Slides](https://yilin10.github.io/MusicalGenreClassification/)
+3. [Presentation Slides](https://yilin10.github.io/MusicalGenreClassification/)
 
 ## Description
 Implement a classifier able to predict the musical genre of a music piece.
